@@ -8,3 +8,5 @@ Materials Used
 1.	Computer with Anaconda Environment & Jupiter Notebook installed.
 2.	OpenCV, Numpy and Matplotlib libraries.
 3.	High quality images of the Sellipi inscriptions.
+
+Read the Assignment 02 document to understand the process deeply.
